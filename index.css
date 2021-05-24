@@ -1,0 +1,12 @@
+body{
+    background: #f5683b;
+    padding-top: 25vh;
+}
+form{
+	background: #fff;
+}
+.form-cotainer{
+	border-radius:10px;
+	padding: 30px; 
+	box-shadow: 0px 0px 10px 0px;
+}
